@@ -1,7 +1,7 @@
 public class Datatypes { //data types
     public static void main(String[] args) {
-        byte b = 12; //byte
-        float f = 1.3f; //float
+        byte b = 22; //byte
+        float f = 7.3f; //float
         int num = 12; //number
         long L = 79765678L; //long
         short s = 32767; //short
